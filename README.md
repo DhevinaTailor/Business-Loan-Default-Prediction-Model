@@ -35,6 +35,34 @@ In this project, we propose building a predictive model to identify potential bu
 
 8. **Deployment 🚀:** Deploy the trained model to provide real-time or batch predictions, supporting loan approval decisions.
 
+### Roadmap 🗺️
+
+Here's a roadmap outlining the project's progress and what to expect in the coming weeks:
+
+#### Completed Tasks 🎉
+
+1. **Problem Statement and Stakeholders:** We've defined the problem area, outlined the problem statement, and identified the stakeholders affected by business loan defaults.
+
+2. **Proposed Data Science Solution:** The proposed solution, from data collection to EDA, is well-documented. We've also started the EDA process.
+
+3. **Dataset Description:** The dataset, sourced from the Small Business Administration (SBA), is described in detail, including a data dictionary for all 27 columns.
+
+4. **Initial Learnings:** We've shared key learnings up to the EDA stage, highlighting the importance of understanding the data and addressing data cleaning and feature selection.
+
+#### Upcoming Tasks 📅
+
+1. **EDA Completion:** We will complete the Exploratory Data Analysis (EDA) phase, gaining deeper insights into the dataset and identifying patterns and relationships.
+
+2. **Feature Engineering:** After EDA, we will proceed with feature engineering, creating new features and transforming data to enhance our model's predictive power.
+
+3. **Model Selection and Training:** We will evaluate and select a machine learning algorithm (logistic regression) and train the model using the prepared dataset.
+
+4. **Model Evaluation:** The trained model will be evaluated for performance using metrics such as accuracy, precision, recall, and F1 score.
+
+5. **Deployment:** The final step involves deploying the trained model to provide real-time or batch predictions, which will support loan approval decisions.
+
+Our roadmap ensures that we are making steady progress toward our goal of building a robust business loan default prediction model. Stay tuned for updates and further insights as we move forward.
+
 ### Impact of the Solution 💼
 
 Implementing an effective loan default prediction model can have a significant impact:
@@ -97,3 +125,5 @@ Here are the key things we've learned in the early stages of our project:
 - **Feature Relationships:** We've explored how different data features relate to each other and to our target variable (loan defaults).
 
 These learnings provide the groundwork for the project. The goal is to create a robust loan default prediction model with these insights.
+
+Stay tuned for further updates as we progress through the project! 🚀
