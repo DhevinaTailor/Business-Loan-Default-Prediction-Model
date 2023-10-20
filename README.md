@@ -66,7 +66,6 @@ The dataset used in this project is sourced from the Small Business Administrati
 
 This comprehensive dataset encompasses various aspects of loan applications, including applicant details, loan terms, geographical information, and loan outcomes. The data enables us to explore and predict business loan defaults, a critical challenge for both financial institutions and small businesses.
 
-Please note that due to the sensitive nature of financial and applicant data, we cannot provide direct access to the dataset within this repository. For those interested in obtaining a similar dataset or accessing SBA resources, please refer to the official [Small Business Administration (SBA) website](https://www.sba.gov/) for more information.
 
 ### Learnings 🧐
 
