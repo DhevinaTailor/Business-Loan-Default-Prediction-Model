@@ -44,21 +44,6 @@ Implementing an effective loan default prediction model can have a significant i
 
 ### Description of the Dataset
 
-The dataset used in this project contains detailed information about past loan applications. Here's a more granular description of the key fields:
-
-- **applicant_id:** A unique identifier for each loan applicant.
-- **age:** Age of the loan applicant.
-- **income:** Applicant's annual income.
-- **credit_score:** Credit score of the applicant.
-- **employment_status:** Employment status of the applicant (e.g., employed, self-employed, unemployed).
-- **loan_amount:** The amount of the loan requested.
-- **interest_rate:** The interest rate on the loan.
-- **loan_term:** The duration of the loan in months.
-- **repayment_history:** A binary variable indicating the applicant's historical loan repayment behavior (1 for previous defaults, 0 for no defaults).
-- **loan_status:** The target variable indicating loan status (1 for default, 0 for successful repayment).
-
-### Description of the Dataset
-
 The dataset used in this project contains various fields related to business loans. Below is a detailed data dictionary for the dataset:
 
 | **#** | **Variable Name**    | **Description**                                        |
