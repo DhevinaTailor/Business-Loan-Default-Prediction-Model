@@ -1,23 +1,5 @@
 # DefaultShield: Business Loan Default Prediction Model 🛡️
 
-## Table of Contents
-
-- [Project Overview](#project-overview)
-  - [Problem Area](#problem-area)
-  - [Stakeholders Affected](#stakeholders-affected)
-- [Proposed Data Science Solution](#proposed-data-science-solution)
-  - [Data Collection](#data-collection)
-  - [Data Preprocessing](#data-preprocessing)
-  - [Exploratory Data Analysis (EDA)](#exploratory-data-analysis-eda)
-  - [Feature Engineering](#feature-engineering)
-  - [Model Selection](#model-selection)
-  - [Model Training](#model-training)
-  - [Model Evaluation](#model-evaluation)
-  - [Deployment](#deployment)
-- [Impact of the Solution](#impact-of-the-solution)
-- [Description of the SBA Dataset](#description-of-the-sba-dataset)
-- [Learnings](#learnings)
-
 ## Project Overview
 
 Welcome to the Business Loan Default Prediction Model project! This README file provides a detailed project overview, including the problem area, stakeholders affected, the proposed data science solution, and a granular description of the dataset.
