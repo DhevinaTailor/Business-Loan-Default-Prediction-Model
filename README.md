@@ -82,7 +82,18 @@ The dataset used in this project contains various fields related to business loa
 
 ### Learnings 🧐
 
-Throughout the project, we've encountered several key learnings and insights, including:
+Here are the key things we've learned in the early stages of our project:
 
-- The importance of feature engineering in model performance.
-- The significance of interpreting model results.
+- **Getting to Know the Data:** We've taken a close look at our dataset to understand its structure and challenges, which is essential for our analysis.
+
+- **Data Cleanup:** We've cleaned the data, addressing missing values, and inconsistencies, ensuring that it's reliable for analysis.
+
+- **Choosing the Right Features:** We've decided which data features are important for our analysis and future predictive model.
+
+- **Initial Insights:** We've uncovered some initial patterns, distributions, and anomalies in the data.
+
+- **Visualizing Data:** Visualizations, like charts and graphs, have helped us understand the data's characteristics and discover hidden trends.
+
+- **Feature Relationships:** We've explored how different data features relate to each other and to our target variable (loan defaults).
+
+These learnings provide the groundwork for the project. The goal is to create a robust loan default prediction model with these insights.
