@@ -27,7 +27,7 @@ In this project, we propose building a predictive model to identify potential bu
 
 4. **Feature Engineering:** Create new features and transform data to enhance the model's predictive power. This step aims to improve the model's performance.
 
-5. **Model Selection:** Evaluate various machine learning algorithms (e.g., logistic regression, decision trees, random forests, gradient boosting) for predicting loan defaults.
+5. **Model Selection:** Evaluate various machine learning algorithms (logistic regression) for predicting loan defaults.
 
 6. **Model Training:** Train the selected model on the prepared dataset, using historical loan data.
 
