@@ -49,17 +49,23 @@ Here's a roadmap outlining the project's progress and what to expect in the comi
 
 4. **Initial Learnings:** We've shared key learnings up to the EDA stage, highlighting the importance of understanding the data and addressing data cleaning and feature selection.
 
+5. **In-Depth EDA:** We've concluded a more thorough Exploratory Data Analysis, uncovering deeper insights and patterns within the dataset.
+
+6. **Advanced Feature Engineering:** Post-EDA, we've developed and integrated new features into our dataset, enhancing the potential predictive power of our models.
+
+7. **Baseline Model Development:** We've implemented and assessed various baseline models, including logistic regression, to establish a foundation for more advanced modeling.
+
+8. **Preliminary Model Evaluation:** Our baseline models have been evaluated using a set of metrics, providing insights into their initial performance and areas for improvement.
+
 #### Upcoming Tasks 📅
 
-1. **EDA Completion:** We will complete the Exploratory Data Analysis (EDA) phase, gaining deeper insights into the dataset and identifying patterns and relationships.
+1. **Model Refinement:** Based on our findings from the initial models, we'll refine and tune our models to improve accuracy and reliability.
 
-2. **Feature Engineering:** After EDA, we will proceed with feature engineering, creating new features and transforming data to enhance our model's predictive power.
+2. **Exploration of Advanced Modeling Techniques:** We plan to explore more sophisticated machine learning algorithms to enhance our prediction capabilities.
 
-3. **Model Selection and Training:** We will evaluate and select a machine learning algorithm (logistic regression) and train the model using the prepared dataset.
+3. **Preparation for Deployment:** As we refine our models, we'll also start laying the groundwork for deploying the model in a real-world setting.
 
-4. **Model Evaluation:** The trained model will be evaluated for performance using metrics such as accuracy, precision, recall, and F1 score.
-
-5. **Deployment:** The final step involves deploying the trained model to provide real-time or batch predictions, which will support loan approval decisions.
+4. **Deployment:** The final step involves deploying the trained model to provide real-time or batch predictions, which will support loan approval decisions.
 
 Our roadmap ensures that we are making steady progress toward our goal of building a robust business loan default prediction model. Stay tuned for updates and further insights as we move forward.
 
@@ -123,6 +129,12 @@ Here are the key things we've learned in the early stages of our project:
 - **Visualizing Data:** Visualizations, like charts and graphs, have helped us understand the data's characteristics and discover hidden trends.
 
 - **Feature Relationships:** We've explored how different data features relate to each other and to our target variable (loan defaults).
+
+- **Deeper Data Insights:** Our extended EDA phase has revealed more nuanced patterns and correlations.
+
+- **Feature Engineering Successes:** The new features we've created are showing promise in enhancing our model's accuracy.
+
+Model Evaluation Insights: Initial evaluations have provided valuable feedback, highlighting the strengths and weaknesses of our baseline models.
 
 These learnings provide the groundwork for the project. The goal is to create a robust loan default prediction model with these insights.
 
