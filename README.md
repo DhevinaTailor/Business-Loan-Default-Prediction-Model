@@ -35,12 +35,6 @@ We built a predictive model using historical loan data. Key steps included:
 - **In-Depth EDA and Advanced Feature Engineering**
 - **Baseline and Tuned Model Development and Evaluation**
 
-#### Upcoming Tasks 📅
-
-1. **Model Refinement**
-2. **Advanced Modeling Techniques Exploration**
-3. **Preparation and Deployment**
-
 ### Impact of the Solution 💼
 
 - **For Financial Institutions:** Early identification of high-risk loans.
